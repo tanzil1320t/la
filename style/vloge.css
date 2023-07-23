@@ -5,8 +5,13 @@ div {
     margin: 100 px;
 }
 .me{
-    background-color: rgb(63, 105, 150);
+    background-color: rgb(138, 224, 10);
     text-align: right;
+}
+.ck{
+    background-color: aqua;
+    image size: 300px;
+    
 }
     
    
